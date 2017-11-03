@@ -9,3 +9,5 @@
   * flv解h264
   * h264解码及渲染
   * bsr文件直接播放
+
+### demo程序基于MFC，windows编译运行通过
