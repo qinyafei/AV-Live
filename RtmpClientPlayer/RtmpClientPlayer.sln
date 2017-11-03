@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RtmpClientPlayer", "RtmpClientPlayer.vcproj", "{101F9D76-593F-477C-A90C-16334423FF90}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bsDecoder", "rtmpplayer\h264player\bsDecoder\bsDecoder.vcproj", "{34B8971A-FA21-4709-AD20-384BFE9C2BA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101F9D76-593F-477C-A90C-16334423FF90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{101F9D76-593F-477C-A90C-16334423FF90}.Debug|Win32.Build.0 = Debug|Win32
+		{101F9D76-593F-477C-A90C-16334423FF90}.Release|Win32.ActiveCfg = Release|Win32
+		{101F9D76-593F-477C-A90C-16334423FF90}.Release|Win32.Build.0 = Release|Win32
+		{34B8971A-FA21-4709-AD20-384BFE9C2BA5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34B8971A-FA21-4709-AD20-384BFE9C2BA5}.Debug|Win32.Build.0 = Debug|Win32
+		{34B8971A-FA21-4709-AD20-384BFE9C2BA5}.Release|Win32.ActiveCfg = Release|Win32
+		{34B8971A-FA21-4709-AD20-384BFE9C2BA5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
